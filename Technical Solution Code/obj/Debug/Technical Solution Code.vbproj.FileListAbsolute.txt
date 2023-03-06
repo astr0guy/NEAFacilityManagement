@@ -1,0 +1,12 @@
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\bin\Debug\Technical Solution Code.exe.config
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\bin\Debug\Technical Solution Code.exe
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\bin\Debug\Technical Solution Code.pdb
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\bin\Debug\Technical Solution Code.xml
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.vbproj.AssemblyReference.cache
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.vbproj.SuggestedBindingRedirects.cache
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical_Solution_Code.Resources.resources
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.vbproj.GenerateResource.cache
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.vbproj.CoreCompileInputs.cache
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.exe
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.xml
+C:\Users\benel\OneDrive\Documents\Technical Solution Code\Technical Solution Code\obj\Debug\Technical Solution Code.pdb
